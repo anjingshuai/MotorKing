@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MotorKing</string>
+
+    <string name="tab_home">首页</string>
+    <string name="tab_vehicle">找车</string>
+    <string name="tab_merchant">商家</string>
+    <string name="tab_me">我的</string>
 </resources>
