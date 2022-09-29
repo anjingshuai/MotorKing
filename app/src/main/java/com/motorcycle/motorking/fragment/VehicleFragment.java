@@ -9,8 +9,8 @@ public class VehicleFragment extends BaseFragment implements View.OnClickListene
 
     public static final String TAG = "VehicleFragment";
 
-    public static MerchantFragment newInstance() {
-        return new MerchantFragment();
+    public static VehicleFragment newInstance() {
+        return new VehicleFragment();
     }
 
     @Override
